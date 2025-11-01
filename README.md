@@ -2,9 +2,10 @@
 I analyze problems no one asked for. 
 
 Current task: 
-- Learn how to read data, display data :white_large_square:
-- Statistical analysis on stock data :white_large_square:
+- Learn the basics (read, write, display data)
+- How to use AI models to predict
+- exploratory analysis
+- Statistical analysis on stock data 
 
-Future task
-learn data-processing! 
-ML projects
+Future tasks 
+Large scale project (?)
