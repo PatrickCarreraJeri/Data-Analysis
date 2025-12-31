@@ -8,4 +8,4 @@ Current task:
 - Statistical analysis on stock data 
 
 Future tasks 
-Large scale project (?)
+Project Idea: The Quest for elusive 42
